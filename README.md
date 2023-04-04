@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Gautam</h1>
 <h3 align="center">A driven and analytical Data Engineer from India skilled in SQL, Power BI and Python.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sgautam0901" alt="sgautam0901" /></a> </p>
-
 - 🔭 I’m currently working on **projects involving Python for data analytics**
 
 - 🌱 I’m currently learning **Python | Power BI |MS Excel |SQL**
