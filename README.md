@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saurabh Gautam</h1>
+[<h1 align="center">Hi 👋, I'm Saurabh Gautam</h1>
 <h3 align="center">A driven and analytical Data Engineer from India skilled in SQL, Power BI and Python.</h3>
 
 - 🔭 I’m currently working on **projects involving Python for data analytics**
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sgautam0901&show_icons=true&locale=en" alt="sgautam0901" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sgautam0901&" alt="sgautam0901" /></p>
+](https://github.com/Sgautam0901/Sgautam0901/edit/main/README.md)
