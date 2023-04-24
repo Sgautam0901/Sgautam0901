@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Gautam</h1>
-<h3 align="center">A driven and analytical Data Analyst from India skilled in SQL, Power BI and Python.</h3>
+<h3 align="center">A driven and analytical Data Analyst having 2.5 years of experience in IT,working as a Data Analyst in BSW Soft,Bengaluru,India, skilled in SQL, Power BI and Python.</h3>
 
 - 🔭 I’m currently working on **projects involving Python for data analytics**
 
