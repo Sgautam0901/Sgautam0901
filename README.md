@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Gautam</h1>
-<h3 align="center">A driven and analytical Data Engineer from India skilled in SQL, Power BI and Python.</h3>
+<h3 align="center">A driven and analytical Data Analyst from India skilled in SQL, Power BI and Python.</h3>
 
 - 🔭 I’m currently working on **projects involving Python for data analytics**
-
-- 🌱 I’m currently learning **Python | Power BI |MS Excel |SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sgautam0901/](https://github.com/Sgautam0901/)
 
